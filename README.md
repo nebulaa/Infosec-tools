@@ -10,6 +10,6 @@
 
 5. **Parse_Website_title** - Parse the title HTML tags from a website using the beautiful soup module. Input - .txt file
 
-6. **pywappalyzer** - CLI implementation of Wappalyzer using python libraries.
+6. **pywappalyzer** - CLI implementation of Wappalyzer using python libraries. Input - .txt file
 
 7. **whois_lookup_with_IP** - Perform a whois lookup on a list of IP addresses. Input - .txt file | Output: - .csv file
